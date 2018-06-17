@@ -1,14 +1,15 @@
 [
   {
-    "id": 1,
-    "title": "Bearmantle Headdress",
+    "id": 152681,
+    "title": "Headdress of Living Brambles",
     "itemLvl": 930,
     "classId": 1,
     "stats": [
       {"armor": 390},
       {"stamina": 2870},
       {"agility": 2870},
-      {"critical strike": 2870}
+      {"critical strike": 660},
+      {"haste": 1189}
     ],
     "material": "Leather",
     "slot": "Head",
