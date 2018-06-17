@@ -1,14 +1,47 @@
 [
   {
-    "title": "This is the first post!",
-    "id": 1
+    "id": 1,
+    "title": "Bearmantle Headdress",
+    "itemLvl": 930,
+    "classId": 1,
+    "stats": [
+      {"armor": 390},
+      {"stamina": 2870},
+      {"agility": 2870},
+      {"critical strike": 2870}
+    ],
+    "material": "Leather",
+    "slot": "Head",
+    "raidId": 0
   },
   {
-    "title": "This is the second post!",
-    "id": 2
+    "id": 1,
+    "title": "Bearmantle Headdress",
+    "itemLvl": 930,
+    "classId": 1,
+    "stats": [
+      {"armor": 390},
+      {"stamina": null},
+      {"agility": 2870},
+      {"critical strike": 2870}
+    ],
+    "material": "Leather",
+    "slot": "Head",
+    "raidId": 0
   },
   {
-    "title": "Ist this the last post?!",
-    "id": 1
+    "id": 1,
+    "title": "Bearmantle Headdress",
+    "itemLvl": 930,
+    "classId": 1,
+    "stats": [
+      {"armor": 390},
+      {"stamina": 4305},
+      {"agility": 2870},
+      {"critical strike": 713}
+    ],
+    "material": "Leather",
+    "slot": "Head",
+    "raidId": 0
   }
 ]
