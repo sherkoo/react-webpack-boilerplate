@@ -4,7 +4,7 @@
     "title": "Headdress of Living Brambles",
     "itemLvl": 930,
     "classId": "Druid,Rogue,Monk,DemonHunter"
-    "stats": [
+    "stats":[
       {"armor": 349},
       {"stamina": 4305},
       {"agility": 2870},
