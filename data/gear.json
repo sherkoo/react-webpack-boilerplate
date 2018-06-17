@@ -3,7 +3,7 @@
     "id": 152681,
     "title": "Headdress of Living Brambles",
     "itemLvl": 930,
-    "classId": 1,
+    "classId": Druid, Rogue, Monk
     "stats": [
       {"armor": 349},
       {"stamina": 4305},
