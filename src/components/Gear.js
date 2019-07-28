@@ -1,5 +1,4 @@
 const React = require('react');
-const gearData = require('../../data/gear.json');
 const API = [{title: "This is a test title", id: 0}, {title: "other title", id: 2}, {title: "yes!", id: 4}];
 
 class Gear extends React.Component {
