@@ -3,12 +3,11 @@ const ReactDOM = require('react-dom');
 const Header = require('./components/Header');
 const Posts = require('./components/Posts');
 const Gear = require('./components/Gear');
-const gearData = require('../data/gear.json');
 
 class App extends React.Component {
   constructor(){
     super();
-    this.words = gearData;
+    this.words = [{id:0,title:"first title"},{id:1,title:"second title"}]
   }
 
   getPosts(){
